@@ -172,7 +172,7 @@ body{
 .beak::before{
     content: '';
     position: absolute;
-    width: 148px;
+    width: 146px;
     border: 2px solid black;
     transform: rotate(-45deg);
     bottom:47%;
